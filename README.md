@@ -1,6 +1,6 @@
 # LegalBot — Miras Hukuku Asistani
 
-Avukatlara yonelik PDF tabanli hukuki chatbot. Yuklu kanun belgesini okuyup belle atar; avukat soru sorduğunda ilgili maddeleri bulup aciklar.
+Avukatlara yonelik PDF tabanli hukuki chatbot. Yuklu kanun belgesini okuyup belleğe atar; avukat soru sorduğunda ilgili maddeleri bulup aciklar.
 
 ---
 
